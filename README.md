@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Miestrode
 - 👀 I’m interested in Programming and Compilers
 - 🌱 I’m currently learning Kotlin and Java
+- 📧 You can reach me at miestrode@gmail.com or yoavgreenland@gmail.com
 
 <!---
 Miestrode/Miestrode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
