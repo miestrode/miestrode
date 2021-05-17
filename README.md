@@ -1,3 +1,4 @@
+![alt text](https://github.com/Miestrode/Miestrode/blob/resources/Lake.png?raw=true)
 - 👋 Hi, I’m @Miestrode
 - 👀 I’m interested in Programming and Compilers
 - 🌱 I’m currently learning Kotlin and Java
