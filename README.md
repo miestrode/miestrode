@@ -29,5 +29,5 @@ Email: `miestrode@gmail.com`
 Discord: `Miestrode#8204`
 
 <h1 align="center">
-    <img src="assets/Party Popper.png" width="500" height="500">
+    <img src="assets/Party Popper.svg" width="500" height="500">
 </h1>
