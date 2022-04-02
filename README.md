@@ -28,6 +28,7 @@ Yes, Chess programming is quite the rabbit hole.
 Email: `miestrode@gmail.com`
 Discord: `Miestrode#8204`
 
-<h1 align="center">
-    <img src="assets/Party Popper.svg" width="500" height="500">
-</h1>
+<p align="center">
+    <img src="assets/Party Popper.svg" width="150" height="150">
+    <h1 align="center">That's All Folks!</h1>
+</p>
