@@ -26,6 +26,7 @@ Yes, Chess programming is quite the rabbit hole.
 
 # Contacts :mega:
 Email: `miestrode@gmail.com`
+
 Discord: `Miestrode#8204`
 
 <p align="center">
