@@ -24,10 +24,10 @@ More seriously though, while I believe Fisher will never beat any other prominen
 
 Yes, Chess programming is quite the rabbit hole.
 
-# Contacts :mega:
-Email: `miestrode@gmail.com`
+#
 
-Discord: `Miestrode#8204`
+### Do I have to contact you via Email?
+No! Of course not. I also have a Discord account. Feel free to talk to me `Miestrode#8204`. Preferably about things related to my Github (If you come from here).
 
 <p align="center">
     <img src="assets/Party Popper.svg" width="150" height="150">
