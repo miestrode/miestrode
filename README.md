@@ -1,5 +1,5 @@
 # :wave: Shalom!
-I'm **Yoav**, and welcome to my Github! I am a student, who programs in his free time.
+I'm **Yoav**, and welcome to my Github! I am a student, who programs in his free time. I like to solve logic problems, play Chess, play Minecraft and of course, program. I am interested in learning about new paradigms of programming, like the Functional, or Logic paradigms. 
 
 ## :information_source: Some facts about me
 - I mainly program in **Rust**, **Python** and **MCfunction**, although I am looking to learn other programming languages.
