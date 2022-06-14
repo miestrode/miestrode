@@ -10,24 +10,22 @@ I'm **Yoav**, and welcome to my Github! I am a student, who programs in his free
 - I live in Israel, as you can see on my profile.
 
 # :hammer_and_wrench: What are you working on right now?
-Right now, I have two *important* unfinished projects. I'm not working on them actively, but I am in general working on them.
+## :dark_sunglasses: Secret Minecraft IR
+With over 7 unique Minecraft Data pack transpiling languages, the need for standardization is grave.
+As of today, every language needs to implement it's own backend. This is why I began working on this project. I hope to eliminate (mostly) this need, once and for all.
+
+I hope that in the future, just like a large amount of regular language implementations use LLVM, so will be the case for this project. "LLVM For Minecraft".
 
 ## :bell: Bell
-Probably the biggest one. I started Bell around two years ago, in an effort to solve some problems I had with MCfunction, understand how the programming languages I have been using work and to strengthen my programming skills.
+Bell has truly been a major learning exprience for me. I begun working on this "mammoth" of a project around two years ago, in an effort to solve some problems I had with MCfunction, understand how the programming languages I have been using work and to strengthen my programming skills.
 
 Bell is currently in the middle of a refactor, designed to introduce better, more functional features into it, and to improve it's UI.
 
-## :fishing_pole_and_fish: Fisher
-Chess is a hobby of mine, although I'm not particularly good at it. The obvious solution to this is to spend several months of my life creating a program that plays Chess for me.
-
-More seriously though, while I believe Fisher will never beat any other prominent Chess engine, I do hope it will allow me to better my knowledge of Rust, and hopefully of Bitwise operations as well.
-
-Yes, Chess programming is quite the rabbit hole.
-
-#
-
 ### :mailbox: Do I have to contact you via Email?
 No! Of course not. I also have a Discord account. Feel free to talk to me `Miestrode#8204`. Preferably about things related to my Github (If you come from here).
+
+### What about Fisher?
+I am halting most work on Fisher, in order to focus more on other projects, to hopefully learn a lot more. The Project isn't dead however, it should be said. It is just on hold.
 
 <p align="center">
     <img src="assets/Party Popper.svg" width="150" height="150">
