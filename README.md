@@ -22,7 +22,7 @@ Bell has truly been a major learning exprience for me. I begun working on this "
 Bell is currently in the middle of a refactor, designed to introduce better, more functional features into it, and to improve it's UI.
 
 ### :mailbox: Do I have to contact you via Email?
-No! Of course not. I also have a Discord account. Feel free to talk to me `Miestrode#8204`. Preferably about things related to my Github (If you come from here).
+No! Of course not. I also have a Discord account. Feel free to talk to me at `Miestrode#8204`. Preferably about things related to my Github (If you come from here).
 
 ### What about Fisher?
 I am halting most work on Fisher, in order to focus more on other projects, to hopefully learn a lot more. The Project isn't dead however, it should be said. It is just on hold.
